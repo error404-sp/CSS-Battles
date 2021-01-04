@@ -1,6 +1,6 @@
 # CSS-Battles Solutions
  ## Score update
- ![Imgur](https://i.imgur.com/E2Y154X.png)
+ ![Imgur](https://i.imgur.com/M2HWw8i.png)
 
  ## Solved Battles
  * [Battle 1 #Target 1- Simply Square](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target1.md)

@@ -1,6 +1,6 @@
 # CSS-Battles Solutions
  ## Score update
- ![Imgur](https://i.imgur.com/acoOpgI.png)
+ ![Imgur](https://i.imgur.com/Ejk3qSA.png)
 
  ## Solved Battles
  * [Battle 1 #Target 1- Simply Square](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target1.md)
@@ -14,6 +14,11 @@
  * [Battle 1 #Target 9- Tesseract](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target9.md)
  * [Battle 1 #Target 10- Cloacked spirits](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target10.md)
  * [Battle 1 #Target 11- Eye of Sauron](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target11.md)
+ * [Battle 1 #Target 12- Wiggly Moustache](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target12.md)
+ * [Battle 2 #Target 13- Totally Triangle](https://github.com/error404-sp/CSS-Battles/blob/main/Battle2%23Target13.md)
+ * [Battle 2 #Target 14- Web Maker Logo](https://github.com/error404-sp/CSS-Battles/blob/main/Battle2%23Target14.md)
+ * [Battle 2 #Target 15- Overlap](https://github.com/error404-sp/CSS-Battles/blob/main/Battle2%23Target15.md)
+ * [Battle 2 #Target 16- Eye of the tiger](https://github.com/error404-sp/CSS-Battles/blob/main/Battle2%23Target16.md)
  * [Battle 12 #Target 61 - Ship](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12Target61-ship.md)
  * [Battle 12 #Target 66 - Batmicky](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target66.md)
  * [Battle 12 #Target 67- Video Reel](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target67.md)

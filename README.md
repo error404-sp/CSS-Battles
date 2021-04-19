@@ -26,4 +26,5 @@
  * [Battle 12 #Target 66 - Batmicky](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target66.md)
  * [Battle 12 #Target 67- Video Reel](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target67.md)
  * [Battle 12 #Target 68 - Bell](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target68.md)
- * [Battle 13 #Target 69 - Bell](https://github.com/error404-sp/CSS-Battles/blob/main/Battle13%23Target69.md)
+ * [Battle 13 #Target 69 - PushOwl](https://github.com/error404-sp/CSS-Battles/blob/main/Battle13%23Target69.md)
+ * [Battle 13 #Target 70 - Froggy](https://github.com/error404-sp/CSS-Battles/blob/main/Battle13%23Target70.md)

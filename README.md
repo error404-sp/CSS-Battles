@@ -23,7 +23,7 @@
  * [Battle 2 #Target 15- Overlap](https://github.com/error404-sp/CSS-Battles/blob/main/Battle2%23Target15.md)
  * [Battle 2 #Target 16- Eye of the tiger](https://github.com/error404-sp/CSS-Battles/blob/main/Battle2%23Target16.md)
  * [Battle 11 #Target 53 - Pastel Logo](https://github.com/error404-sp/CSS-Battles/blob/main/%23Battle11%23Target53.md)
- * [Battle 12 #Target 61 - Ship](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12Target61-ship.md)
+ * [Battle 12 #Target 61 - Ship](https://github.com/error404-sp/CSS-Battles/blob/main/Battle11%23Target53.md)
  * [Battle 12 #Target 66 - Batmicky](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target66.md)
  * [Battle 12 #Target 67- Video Reel](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target67.md)
  * [Battle 12 #Target 68 - Bell](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target68.md)

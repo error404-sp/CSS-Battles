@@ -1,9 +1,9 @@
 # CSS-Battles Solutions
  ## Score update
- **36036.65**
+ **36637.38**
 
 ## Global Rank
-**431st / 97261**
+**426th / 98795**
 
  ## Solved Battles
  * [Battle 1 #Target 1- Simply Square](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target1.md)
@@ -29,3 +29,4 @@
  * [Battle 12 #Target 68 - Bell](https://github.com/error404-sp/CSS-Battles/blob/main/Battle12%23Target68.md)
  * [Battle 13 #Target 69 - PushOwl](https://github.com/error404-sp/CSS-Battles/blob/main/Battle13%23Target69.md)
  * [Battle 13 #Target 70 - Froggy](https://github.com/error404-sp/CSS-Battles/blob/main/Battle13%23Target70.md)
+ * [Battle 14 #Target 77 - Notes](https://github.com/error404-sp/CSS-Battles/blob/main/Battle14%23Target77.md)

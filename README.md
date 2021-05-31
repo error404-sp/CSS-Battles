@@ -30,3 +30,4 @@
  * [Battle 13 #Target 69 - PushOwl](https://github.com/error404-sp/CSS-Battles/blob/main/Battle13%23Target69.md)
  * [Battle 13 #Target 70 - Froggy](https://github.com/error404-sp/CSS-Battles/blob/main/Battle13%23Target70.md)
  * [Battle 14 #Target 77 - Notes](https://github.com/error404-sp/CSS-Battles/blob/main/Battle14%23Target77.md)
+ * [Battle 14 #Target 78 - Ukelele](https://github.com/error404-sp/CSS-Battles/blob/main/Battle14%23Target78.md)

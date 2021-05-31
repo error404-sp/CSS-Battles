@@ -1,9 +1,9 @@
 # CSS-Battles Solutions
  ## Score update
- **36637.38**
+ **38427.43**
 
 ## Global Rank
-**426th / 98795**
+**385th / 100871**
 
  ## Solved Battles
  * [Battle 1 #Target 1- Simply Square](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target1.md)
@@ -32,4 +32,4 @@
  * [Battle 14 #Target 77 - Notes](https://github.com/error404-sp/CSS-Battles/blob/main/Battle14%23Target77.md)
  * [Battle 14 #Target 78 - Ukelele](https://github.com/error404-sp/CSS-Battles/blob/main/Battle14%23Target78.md)
  * [Battle 14 #Target 79 - Tambourine](https://github.com/error404-sp/CSS-Battles/blob/main/%23Battle14Target%2379.md)
- * [Battle 14 #Target 80 - 
+ * [Battle 14 #Target 80 - Piano](https://github.com/error404-sp/CSS-Battles/blob/main/%23Battle14Target%2380.md)

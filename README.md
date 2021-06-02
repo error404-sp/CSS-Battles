@@ -1,9 +1,9 @@
 # CSS-Battles Solutions
  ## Score update
- **38427.43**
+ **40915.88**
 
 ## Global Rank
-**385th / 100871**
+**314th / 101602**
 
  ## Solved Battles
  * [Battle 1 #Target 1- Simply Square](https://github.com/error404-sp/CSS-Battles/blob/main/Battle1%23Target1.md)
